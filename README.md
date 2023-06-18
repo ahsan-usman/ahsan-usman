@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahsan-usman
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Angular
+- 👀 Web Developer
+- 🌱 I’m currently working in Angular
 - 💞️ I’m looking to collaborate on various Projects
 - 📫 reach me at linkedin...
 
