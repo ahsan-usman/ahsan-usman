@@ -73,17 +73,12 @@ Working on high-impact platforms for global organizations:
 
 ---
 
-## GitHub Stats
-
-![Ahsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsan-usman&show_icons=true&hide_title=true&count_private=true)
-
----
-
 ## Contact
 
+- Portfolio: https://ahsanusmandev.vercel.app
 - GitHub: https://github.com/ahsan-usman  
-- LinkedIn: *(add your link here)*  
-- Email: *(add your email here)*  
+- LinkedIn: https://www.linkedin.com/in/ahsanusman007 
+- Email: ahsanusman002@gmail.com 
 
 ---
 
